@@ -1,4 +1,6 @@
-# 1. Character Input
+# Exercises from http://www.practicepython.org/
+
+#1 Character Input
 
 name = input('What is your name?: ')
 age = int(input('How old are you?: '))
@@ -8,7 +10,4 @@ if age < 100:
 else:
     print('Oh no, you have already reached 100 years old!')
 
-
-
-# 2. Odd or Even
 
