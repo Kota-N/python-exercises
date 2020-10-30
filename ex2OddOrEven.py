@@ -1,4 +1,4 @@
-# Exercises from http://www.practicepython.org/
+# An exercise from http://www.practicepython.org/
 
 #2 Odd Or Even
 
